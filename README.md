@@ -1,0 +1,1 @@
+读取h3.6m数据，代码来源于On human motion prediction using recurrent neural networks
